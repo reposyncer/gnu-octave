@@ -11,6 +11,6 @@ jobs:
 
     steps:
     - name: Sync repository
-      uses: reposyncer/hgrs@v0.5
+      uses: reposyncer/hgrs@v0.6
       with:
         url: https://hg.octave.org/octave
